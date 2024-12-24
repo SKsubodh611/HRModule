@@ -3,6 +3,7 @@ from PIL import Image
 import pytesseract
 from docx import Document
 import PyPDF2
+import json
 
 # Path to Tesseract OCR executable
 pytesseract.pytesseract.tesseract_cmd = r"C:\Program Files\Tesseract-OCR\tesseract.exe"
@@ -29,7 +30,11 @@ def extract_text_from_docx(docx_path):
     for para in doc.paragraphs:
         text += para.text + " "
     return text.lower()
-
+def load_keywords_for_java_developer(experience):
+    with open(f"java_developer_keywords.json","r") as f:
+        keywords_data= json.load(f)
+        print("!!!!!!!!!!!!!!!!keywords data is :",keywords_data)
+        return keywords_data.get(str(Experience_level),[])
 # Function to calculate the keyword match score for a resume
 def calculate_keyword_score(text, keywords):
     score = 0
@@ -81,23 +86,41 @@ def generate_keywords(job_title, experience, additional_keywords):
     # Add user-provided keywords
     keywords.extend(additional_keywords)
     return keywords
+def loadKeywords(job_title, experience):
+    with open ("JobProfileKeywords.json","r")as f:
+
+         # Normalize job title to match the keys in the JSON
+        job_title_key = job_title.replace(" ", "_").lower()
+        
+        # Retrieve the keywords for the specific job title and experience level
+        experience_level = str(experience)
+        return job_title.get(job_title_key, {}).get(experience_level, [])
+        
 
 # Main script for user interaction
 if __name__ == "__main__":
     # Get user inputs
+    
     folder_path = input("Enter the folder path containing resumes: ").strip()
+    if not(folder_path):
+        folder_path="G:\PythonCodes\ResumeFilter\Resumes"
     job_title = input("Enter the job title (e.g., 'Java Developer', 'DevOps Engineer'): ").strip()
+    if not(job_title):
+        job_title = "Java Developer"
     experience = input("Enter the required years of experience (e.g., 2, 5, 10): ").strip()
+    if not(experience):
+        experience=2
     additional_keywords = input(
         "Enter additional skills or keywords (comma-separated, e.g., 'SQL, API, Problem-solving'): "
     ).strip().split(",")
     
     # Generate dynamic keywords
-    job_keywords = generate_keywords(job_title, experience, additional_keywords)
-    print(f"\nGenerated Keywords for Filtering: {job_keywords}")
-    
-    # Rank resumes
-    ranked_resumes = rank_resumes_by_keywords(folder_path, job_keywords)
+    job_keywords = loadKeywords(job_title, experience)
+
+    if not job_keywords:
+        print("No keywords found for the specified job title and experience level.")
+    else :
+        print("keywords found :",job_keywords)
     
     # Display results
     if ranked_resumes:

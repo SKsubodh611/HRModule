@@ -7,7 +7,7 @@ import PyPDF2
 # Path to the folder containing resumes
 folder_path = r'G:\PythonCodes\ResumeFilter\Resumes'
 
-# Expanded Keywords for Python Fresher Profile                        
+# Expanded Keywords for Python Fresher Profile                       
 job_keywords = [
     "Python", "Beginner", "Programming", "OOP", "Data Structures", "Algorithms", 
     "Loops", "Functions", "Classes", "JSON", "REST API", "Git", "Database", 

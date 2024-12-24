@@ -1,0 +1,238 @@
+{
+    "Java_developer": {
+      "1": [
+        "Java", "OOP", "Core Java", "Programming", "Data Structures", "Algorithms",
+        "Spring Boot", "Hibernate", "Maven", "REST API", "SQL", "Unit Testing",
+        "Problem-solving", "Git", "Debugging", "Teamwork", "Internship"
+      ],
+      "2": [
+        "Java", "Spring", "Spring Boot", "Hibernate", "JPA", "Maven", "REST API", "SQL",
+        "Microservices", "Docker", "Kubernetes", "AWS", "Cloud", "Design Patterns",
+        "CI/CD", "Agile", "Debugging", "Unit Testing", "Version Control", "Problem-solving"
+      ],
+      "3": [
+        "Java", "Spring Framework", "Spring Boot", "Hibernate", "JPA", "Maven", "REST API", "SQL",
+        "Microservices", "Docker", "Kubernetes", "AWS", "Azure", "Cloud", "Architectural Design",
+        "Team Management", "Code Review", "CI/CD", "Agile Methodology", "Performance Optimization",
+        "Scalability"
+      ],
+      "4": [
+        "Java", "Enterprise Java", "Spring Framework", "Spring Boot", "Hibernate", "JPA",
+        "Microservices Architecture", "Cloud Architecture", "Kubernetes", "Docker", "AWS",
+        "Azure", "Scalability", "System Design", "Performance Tuning", "Cross-functional Leadership",
+        "CI/CD", "DevOps Practices", "Database Design", "API Design", "Team Leadership"
+      ],
+      "5": [
+        "Java", "Enterprise Application Design", "Spring Framework", "Microservices",
+        "Cloud Native Applications", "AWS", "Azure", "Docker", "Kubernetes", "Architectural Design",
+        "Scalability", "Big Data", "System Integration", "Leadership", "Agile Methodology",
+        "DevOps", "Security Best Practices", "CI/CD", "Performance Optimization", "Cross-functional Team Management",
+        "Industry Standards", "Mentoring"
+      ]
+    },
+    "Angular_developer":{
+        "1":[
+            "Angular", "TypeScript", "JavaScript", "HTML", "CSS", "Web Development", "Frontend",
+            "UI/UX Design", "Responsive Design", "Cross-browser Compatibility", "Unit Testing",
+            "Debugging", "Problem-solving", "Git", "Teamwork", "Internship"
+        ],
+        "2":[
+            "Angular", "TypeScript", "JavaScript", "HTML", "CSS", "Web Development", "Frontend",
+            "UI/UX Design", "Responsive Design", "Cross-browser Compatibility", "Unit Testing",
+            "Debugging", "Problem-solving", "Git", "Teamwork", "Internship"
+        ],
+        "3":[
+            "Angular", "TypeScript", "JavaScript", "HTML", "CSS", "Web Development", "Frontend",
+            "UI/UX Design", "Responsive Design", "Cross-browser Compatibility", "Unit Testing",
+            "Debugging", "Problem-solving", "Git", "Teamwork", "Internship"
+        ],
+        "4":[
+            "Angular", "TypeScript", "JavaScript", "HTML", "CSS", "Web Development", "Frontend",
+            "UI/UX Design", "Responsive Design", "Cross-browser Compatibility", "Unit Testing",
+            "Debugging", "Problem-solving", "Git", "Teamwork", "Internship"
+        ],
+        "5":[
+            "Angular", "TypeScript", "JavaScript", "HTML", "CSS", "Web Development", "Frontend",
+            "UI/UX Design", "Responsive Design", "Cross-browser Compatibility", "Unit Testing",
+            "Debugging", "Problem-solving", "Git", "Teamwork", "Internship"
+        ]
+        ,
+        "6":[
+            "Angular", "TypeScript", "JavaScript", "HTML", "CSS", "Web Development", "Frontend",
+            "UI/UX Design", "Responsive Design", "Cross-browser Compatibility", "Unit Testing",
+            "Debugging", "Problem-solving", "Git", "Teamwork", "Internship"
+        ],
+        "7":[
+            "Angular", "TypeScript", "JavaScript", "HTML", "CSS", "Web Development", "Frontend",
+            "UI/UX Design", "Responsive Design", "Cross-browser Compatibility", "Unit Testing",
+            "Debugging", "Problem-solving", "Git", "Teamwork", "Internship"
+        ]
+
+    },
+    "React_developer":{
+        "1":[
+            "React", "JavaScript", "HTML", "CSS", "Web Development", "Frontend", "UI/UX Design",
+            "Responsive Design", "Cross-browser Compatibility", "Unit Testing", "Debugging",
+            "Problem-solving", "Git", "Teamwork", "Internship"
+        ],
+        "2":[
+            "React", "JavaScript", "HTML", "CSS", "Web Development", "Frontend", "UI/UX Design",
+            "Responsive Design", "Cross-browser Compatibility", "Unit Testing", "Debugging",
+            "Problem-solving", "Git", "Teamwork", "Internship"
+        ],
+        "3":[
+            "React", "JavaScript", "HTML", "CSS", "Web Development", "Frontend", "UI/UX Design",
+            "Responsive Design", "Cross-browser Compatibility", "Unit Testing", "Debugging",
+            "Problem-solving", "Git", "Teamwork", "Internship"
+        ],
+        "4":[
+            "React", "JavaScript", "HTML", "CSS", "Web Development", "Frontend", "UI/UX Design",
+            "Responsive Design", "Cross-browser Compatibility", "Unit Testing", "Debugging",
+            "Problem-solving", "Git", "Teamwork", "Internship"
+        ],
+        "5":[
+            "React", "JavaScript", "HTML", "CSS", "Web Development", "Frontend", "UI/UX Design",
+            "Responsive Design", "Cross-browser Compatibility", "Unit Testing", "Debugging",
+            "Problem-solving", "Git", "Teamwork", "Internship"
+        ]
+        ,
+        "6":[
+            "React", "JavaScript", "HTML", "CSS", "Web Development", "Frontend", "UI/UX Design",
+            "Responsive Design", "Cross-browser Compatibility", "Unit Testing", "Debugging",
+            "Problem-solving", "Git", "Teamwork", "Internship"
+        ],
+        "7":[
+            "React", "JavaScript", "HTML", "CSS", "Web Development", "Frontend", "UI/UX Design",
+            "Responsive Design", "Cross-browser Compatibility", "Unit Testing", "Debugging",
+            "Problem-solving", "Git", "Teamwork", "Internship"
+        ]
+
+    },
+    "Node_developer":{
+        "1":[
+            "Node.js", "JavaScript", "Express", "MongoDB", "REST API", "Web Development",
+            "Backend", "Database", "Unit Testing", "Debugging", "Problem-solving", "Git",
+            "Teamwork", "Internship"
+        ],
+        "2":[
+            "Node.js", "JavaScript", "Express", "MongoDB", "REST API", "Web Development",
+            "Backend", "Database", "Unit Testing", "Debugging", "Problem-solving", "Git",
+            "Teamwork", "Internship"
+        ],
+        "3":[
+            "Node.js", "JavaScript", "Express", "MongoDB", "REST API", "Web Development",
+            "Backend", "Database", "Unit Testing", "Debugging", "Problem-solving", "Git",
+            "Teamwork", "Internship"
+        ],
+        "4":[
+            "Node.js", "JavaScript", "Express", "MongoDB", "REST API", "Web Development",
+            "Backend", "Database", "Unit Testing", "Debugging", "Problem-solving", "Git",
+            "Teamwork", "Internship"
+        ],
+        "5":[
+            "Node.js", "JavaScript", "Express", "MongoDB", "REST API", "Web Development",
+            "Backend", "Database", "Unit Testing", "Debugging", "Problem-solving", "Git",
+            "Teamwork", "Internship"
+        ]
+        ,
+        "6":[
+            "Node.js", "JavaScript", "Express", "MongoDB", "REST API", "Web Development",
+            "Backend", "Database", "Unit Testing", "Debugging", "Problem-solving", "Git",
+            "Teamwork", "Internship"
+        ],
+        "7":[
+            "Node.js", "JavaScript", "Express", "MongoDB", "REST API", "Web Development",
+            "Backend", "Database", "Unit Testing", "Debugging", "Problem-solving", "Git",
+            "Teamwork", "Internship"
+        ]
+
+    },
+    
+    "Python_developer": {
+      "1": [
+        "Python", "OOP", "Core Python", "Programming", "Data Structures", "Algorithms",
+        "Flask", "Django", "SQLAlchemy", "REST API", "SQL", "Unit Testing",
+        "Problem-solving", "Git", "Debugging", "Teamwork", "Internship"
+      ],
+      "2": [
+        "Python", "Flask", "Django", "SQLAlchemy", "REST API", "SQL", "Microservices",
+        "Docker", "Kubernetes", "AWS", "Cloud", "Design Patterns", "CI/CD", "Agile",
+        "Debugging", "Unit Testing", "Version Control", "Problem-solving"
+      ],
+      "3": [
+        "Python", "Flask", "Django", "SQLAlchemy", "REST API", "SQL", "Microservices",
+        "Docker", "Kubernetes", "AWS", "Azure", "Cloud", "Architectural Design", "Team Management",
+        "Code Review", "CI/CD", "Agile Methodology", "Performance Optimization", "Scalability"
+      ],
+      "4": [
+        "Python", "Flask", "Django", "SQLAlchemy", "REST API", "SQL", "Microservices",
+        "Docker", "Kubernetes", "AWS", "Azure", "Cloud", "Scalability", "System Design",
+        "Performance Tuning", "Cross-functional Leadership", "CI/CD", "DevOps Practices",
+        "Database Design", "API Design", "Team Leadership"
+      ],
+      "5": [
+        "Python", "Flask", "Django", "SQLAlchemy", "REST API", "SQL", "Microservices",
+        "Docker", "Kubernetes", "AWS", "Azure", "Cloud", "Architectural Design",
+        "Team Management", "Code Review", "CI/CD", "Agile Methodology", "Performance Optimization",
+        "Scalability"
+      ]
+    },
+    "SQL_developer": {
+      "1": [
+        "SQL", "Database", "Data Modeling", "Data Warehousing", "ETL", "Data Analysis",
+        "Data Visualization", "Data"
+      ],
+      "2": [
+        "SQL", "Database", "Data Modeling", "Data Warehousing", "ETL", "Data Analysis",
+        "Data Visualization", "Data", "SQL Server", "Oracle", "MySQL", "PostgreSQL",
+        "MongoDB", "NoSQL", "Big Data", "Business Intelligence", "Data Mining",
+        "Data Quality", "Data Governance", "Data Integration", "Data Migration"
+      ],
+      "3": [
+        "SQL", "Database", "Data Modeling", "Data Warehousing", "ETL", "Data Analysis",
+        "Data Visualization", "Data", "SQL Server", "Oracle", "MySQL", "PostgreSQL",
+        "MongoDB", "NoSQL", "Big Data", "Business Intelligence", "Data Mining",
+        "Data Quality", "Data Governance", "Data Integration", "Data Migration"
+      ],
+      "4": [
+        "SQL", "Database", "Data Modeling", "Data Warehousing", "ETL", "Data Analysis",
+        "Data Visualization", "Data", "SQL Server", "Oracle", "MySQL", "PostgreSQL",
+        "MongoDB", "NoSQL", "Big Data", "Business Intelligence", "Data Mining",
+        "Data Quality", "Data Governance", "Data Integration", "Data Migration"
+      ],
+      "5": [
+        "SQL", "Database", "Data Modeling", "Data Warehousing", "ETL", "Data Analysis",
+        "Data Visualization", "Data", "SQL Server", "Oracle", "MySQL", "PostgreSQL",
+        "MongoDB", "NoSQL", "Big Data", "Business Intelligence", "Data Mining",
+        "Data Quality", "Data Governance", "Data Integration", "Data Migration"
+      ]
+    },
+    "DevOps_developer": {
+      "1": [
+        "DevOps", "CI/CD", "Docker", "Kubernetes", "AWS", "Azure", "Jenkins", "Git",
+        "Linux", "Bash", "Python", "Shell Scripting", "Monitoring", "Logging", "Security",
+        "Networking", "Automation", "Scalability", "Performance Tuning", "Problem-solving"
+      ],
+      "2": [
+        "DevOps", "CI/CD", "Docker", "Kubernetes", "AWS", "Azure", "Jenkins", "Git",
+        "Linux", "Bash", "Python", "Shell Scripting", "Monitoring", "Logging", "Security",
+        "Networking", "Automation", "Scalability", "Performance Tuning", "Problem-solving"
+      ],
+      "3": [
+        "DevOps", "CI/CD", "Docker", "Kubernetes", "AWS", "Azure", "Jenkins", "Git",
+        "Linux", "Bash", "Python", "Shell Scripting", "Monitoring", "Logging", "Security",
+        "Networking", "Automation", "Scalability", "Performance Tuning", "Problem-solving"
+      ],
+      "4": [
+        "DevOps", "CI/CD", "Docker", "Kubernetes", "AWS", "Azure", "Jenkins", "Git",
+        "Linux", "Bash", "Python", "Shell Scripting", "Monitoring", "Logging", "Security",
+        "Networking", "Automation", "Scalability", "Performance Tuning", "Problem-solving"
+      ],
+      "5": [
+        "DevOps", "CI/CD", "Docker", "Kubernetes", "AWS", "Azure", "Jenkins", "Git",
+        "Linux", "Bash", "Python", "Shell Scripting", "Monitoring", "Logging", "Security",
+        "Networking", "Automation", "Scalability", "Performance Tuning", "Problem-solving"
+      ]
+    }
+  }
+  
