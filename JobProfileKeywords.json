@@ -207,7 +207,7 @@
         "Data Quality", "Data Governance", "Data Integration", "Data Migration"
       ]
     },
-    "DevOps_developer": {
+    "Devops_developer": {
       "1": [
         "DevOps", "CI/CD", "Docker", "Kubernetes", "AWS", "Azure", "Jenkins", "Git",
         "Linux", "Bash", "Python", "Shell Scripting", "Monitoring", "Logging", "Security",
