@@ -105,9 +105,9 @@ def loadKeywords(job_title,experience):
 if __name__ == "__main__":
     # Get user inputs
     
-    folder_path = input("Enter the folder path containing resumes: ").strip()
-    if not (folder_path):
-        folder_path = "G:\PythonCodes\ResumeFilter\Resumes"
+    # folder_path = input("Enter the folder path containing resumes: ").strip()
+    # if not (folder_path):
+    folder_path = "G:\PythonCodes\ResumeFilter\Resumes"
     job_title = input("Enter the job title (e.g., 'Java Developer', 'DevOps Engineer'): ").strip()
     if not (job_title):
         job_title = "Java developer"
